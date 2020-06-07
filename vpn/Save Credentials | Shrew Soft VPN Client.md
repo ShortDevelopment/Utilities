@@ -4,7 +4,7 @@ Using a simple trick your live will be easy again!
 ## How To
 <a href="https://www.shrew.net/download/vpn">Download Shrew Soft VPN Client</a><br/>
 <br/>
-Simply create a shourtcut (*.lnk) with the following destination:
+Simply create a shortcut (*.lnk) with the following destination:
 ```
 "C:\Program Files\ShrewSoft\VPN Client\ipsecc.exe" -r "<ProfileName>" -u "<UserName>" -p "<Password>" -a
 ```
