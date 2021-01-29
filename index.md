@@ -6,7 +6,7 @@
 
 <hr/>   
 
-<a href="{{ p.title }}" title="{{ p.name }}">{{ site.baseurl }}{{ p.url }}</a>
+<a href="{{ site.baseurl }}{{ p.url }}" title="{{ p.name }}">{{ p.title }}</a>
 
 {% endif %}
 
