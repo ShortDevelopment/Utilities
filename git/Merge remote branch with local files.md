@@ -1,18 +1,18 @@
 # Merge remote branch with local files
 
-```powershell
+```batch
 git init
 ```
 
-```powershell
+```batch
 git remote add origin PATH/TO/REPO
 ```
 
-```powershell
+```batch
 git fetch
 ```
 
-```powershell
+```batch
 git reset origin/master  # Required when the versioned files existed in path before "git init" of this repo.
 ```
 
