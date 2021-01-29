@@ -4,9 +4,9 @@
 
 {% for p in site.pages %}
 
-{% if page.name contains ".md" %}
+{% if p.name contains ".md" %}
 
-{{ page.name }}
+{{ p.name }}
 {{ p.content }}
 
 {% endif %}
