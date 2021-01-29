@@ -1,4 +1,4 @@
-# Test
+# Utility Feed
 
 {% for p in site.pages %}
 
