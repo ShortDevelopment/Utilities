@@ -20,9 +20,12 @@
 
 {% if p.name contains ".md" and p.name != "index.md" and p.name != "feed.md" and p.name != "README.md" %}
 
+<hr/>
+
 {{ p.content }}  
 
-<hr/>
+<br/>
+<br/>
 
 {% endif %}
 
