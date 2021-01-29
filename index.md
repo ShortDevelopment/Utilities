@@ -25,7 +25,6 @@
 {{ p.content }}  
 
 <br/>
-<br/>
 
 {% endif %}
 
