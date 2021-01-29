@@ -1,10 +1,10 @@
 # Test
-Theme ?!
 
 {{ content }}
 
 {% for p in site.pages %}
 
-{{p.content}}
+[{{ p.title }}]({{ site.baseurl }}{{ p.url }})
+{{ p.content }}
 
 {% endfor %}
