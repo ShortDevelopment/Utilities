@@ -6,8 +6,10 @@
 
 {% if p.name contains ".md" and p.name != "test.md" %}
 
-{{ site.baseurl }}{{ p.url }}{{ p.name }}
-{{ p.content }}
+{{ p.content }}   
+[{{ p.name }}]({{ site.baseurl }}{{ p.url }})
+
+<hr/>
 
 {% endif %}
 
