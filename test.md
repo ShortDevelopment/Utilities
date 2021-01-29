@@ -5,8 +5,6 @@ Theme ?!
 
 {% for p in site.pages %}
 
-
-{{p.title}}
-{{p}}
+{{p.content}}
 
 {% endfor %}
