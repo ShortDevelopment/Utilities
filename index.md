@@ -12,6 +12,8 @@
 
 {% endfor %}
 
+<link rel="stylesheet" href="style.css" />
+
 <hr/>
 
 # Utility Feed
