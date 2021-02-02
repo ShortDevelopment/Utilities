@@ -1,3 +1,4 @@
+# ADB Input Simulation
 ```cmd
 @echo off
 cd "C:\Program Files (x86)\Minimal ADB and Fastboot"
