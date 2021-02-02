@@ -1,14 +1,14 @@
 # Merge remote branch with local files
 
-```cmd
+```powershell
 git init
 ```
 
-```bash
+```powershell
 git remote add origin PATH/TO/REPO
 ```
 
-```batch
+```powershell
 git fetch
 ```
 
