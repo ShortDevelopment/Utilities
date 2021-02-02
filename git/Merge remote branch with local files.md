@@ -4,15 +4,15 @@
 git init
 ```
 
-```cmd
+```bash
 git remote add origin PATH/TO/REPO
 ```
 
-```cmd
+```batch
 git fetch
 ```
 
-```cmd
+```powershell
 git reset origin/master  # Required when the versioned files existed in path before "git init" of this repo.
 ```
 
