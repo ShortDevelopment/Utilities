@@ -1,6 +1,6 @@
 # Remove file from version control
 
-```batch
+```cmd
 git rm --cached <file>
 ```   
 
