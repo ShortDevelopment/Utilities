@@ -1,3 +1,4 @@
+```cmd
 @echo off
 cd "C:\Program Files (x86)\Minimal ADB and Fastboot"
 echo Information:
@@ -12,3 +13,4 @@ cls
 echo Reset Battery Level
 adb shell dumpsys battery reset
 pause
+```
