@@ -1,5 +1,5 @@
 # ADB Input Simulation
-```cmd
+```powershell
 @echo off
 cd "C:\Program Files (x86)\Minimal ADB and Fastboot"
 title Enter Text
