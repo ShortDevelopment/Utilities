@@ -1,5 +1,5 @@
 # ADB Battery Simulation
-```cmd
+```powershell
 @echo off
 cd "C:\Program Files (x86)\Minimal ADB and Fastboot"
 echo Information:
