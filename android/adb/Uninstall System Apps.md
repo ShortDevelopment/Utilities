@@ -1,6 +1,6 @@
 # Uninstall System Apps
 
-```cmd
+```powershell
 adb shell
 ```
 
