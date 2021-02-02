@@ -7,7 +7,7 @@ The easiest solution is to transcode the video to a different frame rate with ff
 <br/>
 With the following batch file the transcoding can be easely done. You simply have to drag the the video file you want to transcode onto the batch file and enter the target frame rate.
 
-```batch
+```cmd
 @echo off
 
 set ffmpeg="<path to>\ffmpeg.exe"
