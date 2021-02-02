@@ -9,7 +9,7 @@ Apart from this HLS is an easy solution for streaming videos without having to u
 Using ffmpeg you can generate all files needed to stream via HLS.<br/>
 Just create a batch file with the following content an drag a video onto it.<br/>
 
-```batch
+```cmd
 @echo off
 
 set ffmpeg="<path to>\ffmpeg.exe"
